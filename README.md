@@ -1,1 +1,1 @@
-# trading_technicals
+# Trading_Technicals
